@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifyparse",
+        "uuid": 19005624,
+        "checksum": "41man7"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
